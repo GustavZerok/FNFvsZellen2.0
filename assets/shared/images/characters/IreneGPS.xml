@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Irene.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Irene dancing Beat0000" x="0" y="0" width="915" height="945" frameX="-172" frameY="-151" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0001" x="0" y="0" width="915" height="945" frameX="-172" frameY="-151" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0002" x="915" y="0" width="919" height="955" frameX="-168" frameY="-148" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0003" x="1834" y="0" width="927" height="968" frameX="-165" frameY="-138" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0004" x="2761" y="0" width="945" height="984" frameX="-165" frameY="-133" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0005" x="3706" y="0" width="962" height="1003" frameX="-148" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0006" x="4668" y="0" width="960" height="1003" frameX="-148" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0007" x="5628" y="0" width="1070" height="1117" frameX="-79" frameY="-54" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0008" x="5628" y="0" width="1070" height="1117" frameX="-79" frameY="-54" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0009" x="5628" y="0" width="1070" height="1117" frameX="-79" frameY="-54" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0010" x="6698" y="0" width="1101" height="1149" frameX="-52" frameY="-34" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0011" x="6698" y="0" width="1101" height="1149" frameX="-52" frameY="-34" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0012" x="6698" y="0" width="1101" height="1149" frameX="-52" frameY="-34" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0013" x="0" y="1149" width="1104" height="1152" frameX="-53" frameY="-37" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0014" x="0" y="1149" width="1104" height="1152" frameX="-53" frameY="-37" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0015" x="1104" y="1149" width="1182" height="1234"/>
+	<SubTexture name="Irene dancing Beat0016" x="2286" y="1149" width="1182" height="1234"/>
+	<SubTexture name="Irene dancing Beat0017" x="3468" y="1149" width="1173" height="1224" frameX="-8" frameY="-6" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0018" x="4641" y="1149" width="1173" height="1224" frameX="-8" frameY="-6" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0019" x="5814" y="1149" width="1163" height="1215" frameX="-15" frameY="-12" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0020" x="6977" y="1149" width="1163" height="1215" frameX="-15" frameY="-12" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0021" x="0" y="2383" width="1135" height="1185" frameX="-40" frameY="-28" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0022" x="1135" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0023" x="1135" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0024" x="1135" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0025" x="2120" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0026" x="2120" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0027" x="2120" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0028" x="3105" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene dancing Beat0029" x="3105" y="2383" width="985" height="1003" frameX="-137" frameY="-119" frameWidth="1182" frameHeight="1234"/>
+	<SubTexture name="Irene right0000" x="4090" y="2383" width="1181" height="1149"/>
+	<SubTexture name="Irene right0001" x="5271" y="2383" width="1165" height="1138" frameX="-16" frameY="-11" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0002" x="6436" y="2383" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0003" x="0" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0004" x="1119" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0005" x="2238" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0006" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0007" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0008" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0009" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0010" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0011" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0012" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0013" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="Irene right0014" x="3357" y="3568" width="1119" height="1100" frameX="-45" frameY="-37" frameWidth="1181" frameHeight="1149"/>
+	<SubTexture name="irene down0000" x="4476" y="3568" width="1214" height="1149" frameX="0" frameY="-7" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0001" x="4476" y="3568" width="1214" height="1149" frameX="0" frameY="-7" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0002" x="5690" y="3568" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0003" x="6880" y="3568" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0004" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0005" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0006" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0007" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0008" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0009" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0010" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0011" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0012" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0013" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene down0014" x="0" y="4731" width="1190" height="1163" frameX="-12" frameY="0" frameWidth="1214" frameHeight="1163"/>
+	<SubTexture name="irene left0000" x="1190" y="4731" width="1052" height="1012" frameX="-75" frameY="-80" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0001" x="2242" y="4731" width="1052" height="1012" frameX="-75" frameY="-80" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0002" x="3294" y="4731" width="1156" height="1142"/>
+	<SubTexture name="irene left0003" x="4450" y="4731" width="1156" height="1142"/>
+	<SubTexture name="irene left0004" x="5606" y="4731" width="1153" height="1140" frameX="-3" frameY="-1" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0005" x="6759" y="4731" width="1145" height="1131" frameX="-11" frameY="-6" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0006" x="0" y="5894" width="1130" height="1111" frameX="-26" frameY="-17" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0007" x="0" y="5894" width="1130" height="1111" frameX="-26" frameY="-17" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0008" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0009" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0010" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0011" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0012" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0013" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene left0014" x="1130" y="5894" width="1130" height="1105" frameX="-26" frameY="-20" frameWidth="1156" frameHeight="1142"/>
+	<SubTexture name="irene up0000" x="2260" y="5894" width="1214" height="1150" frameX="-88" frameY="0" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0001" x="2260" y="5894" width="1214" height="1150" frameX="-88" frameY="0" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0002" x="3474" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0003" x="4738" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0004" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0005" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0006" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0007" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0008" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0009" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0010" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0011" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0012" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0013" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+	<SubTexture name="irene up0014" x="6002" y="5894" width="1264" height="1120" frameX="0" frameY="-25" frameWidth="1302" frameHeight="1150"/>
+</TextureAtlas>

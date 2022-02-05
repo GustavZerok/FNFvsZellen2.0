@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZellenPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Zellen.png" x="0" y="0" width="529" height="400"/>
+	<SubTexture name="bf.png" x="0" y="400" width="529" height="400"/>
+</TextureAtlas>

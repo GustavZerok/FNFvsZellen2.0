@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dust_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dust idle dance0000" x="0" y="0" width="1363" height="1596" frameX="0" frameY="-40" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0001" x="0" y="0" width="1363" height="1596" frameX="0" frameY="-40" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0002" x="1363" y="0" width="1387" height="1604" frameX="-28" frameY="-45" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0003" x="1363" y="0" width="1387" height="1604" frameX="-28" frameY="-45" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0004" x="2750" y="0" width="1413" height="1618" frameX="-41" frameY="-39" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0005" x="2750" y="0" width="1413" height="1618" frameX="-41" frameY="-39" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0006" x="4163" y="0" width="1442" height="1643" frameX="-41" frameY="-22" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0007" x="4163" y="0" width="1442" height="1643" frameX="-41" frameY="-22" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0008" x="5605" y="0" width="1493" height="1674" frameX="-29" frameY="0" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0009" x="5605" y="0" width="1493" height="1674" frameX="-29" frameY="0" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0010" x="4163" y="0" width="1442" height="1643" frameX="-41" frameY="-22" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0011" x="4163" y="0" width="1442" height="1643" frameX="-41" frameY="-22" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0012" x="0" y="1674" width="1401" height="1626" frameX="-41" frameY="-31" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0013" x="0" y="1674" width="1401" height="1626" frameX="-41" frameY="-31" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0014" x="1401" y="1674" width="1380" height="1610" frameX="-28" frameY="-39" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust idle dance0015" x="1401" y="1674" width="1380" height="1610" frameX="-28" frameY="-39" frameWidth="1522" frameHeight="1674"/>
+	<SubTexture name="Dust note down0000" x="2781" y="1674" width="1107" height="1447" frameX="-144" frameY="-94" frameWidth="1356" frameHeight="1600"/>
+	<SubTexture name="Dust note down0001" x="2781" y="1674" width="1107" height="1447" frameX="-144" frameY="-94" frameWidth="1356" frameHeight="1600"/>
+	<SubTexture name="Dust note down0002" x="3888" y="1674" width="1246" height="1528" frameX="-56" frameY="-49" frameWidth="1356" frameHeight="1600"/>
+	<SubTexture name="Dust note down0003" x="3888" y="1674" width="1246" height="1528" frameX="-56" frameY="-49" frameWidth="1356" frameHeight="1600"/>
+	<SubTexture name="Dust note down0004" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0005" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0006" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0007" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0008" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0009" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0010" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0011" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0012" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0013" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0014" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note down0015" x="5134" y="1674" width="1356" height="1600"/>
+	<SubTexture name="Dust note left0000" x="6490" y="1674" width="1156" height="1557" frameX="-155" frameY="-114" frameWidth="1374" frameHeight="1716"/>
+	<SubTexture name="Dust note left0001" x="6490" y="1674" width="1156" height="1557" frameX="-155" frameY="-114" frameWidth="1374" frameHeight="1716"/>
+	<SubTexture name="Dust note left0002" x="0" y="3300" width="1270" height="1643" frameX="-79" frameY="-48" frameWidth="1374" frameHeight="1716"/>
+	<SubTexture name="Dust note left0003" x="0" y="3300" width="1270" height="1643" frameX="-79" frameY="-48" frameWidth="1374" frameHeight="1716"/>
+	<SubTexture name="Dust note left0004" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0005" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0006" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0007" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0008" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0009" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0010" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0011" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0012" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0013" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note left0014" x="1270" y="3300" width="1374" height="1716"/>
+	<SubTexture name="Dust note right0000" x="2644" y="3300" width="1100" height="1506" frameX="-125" frameY="-102" frameWidth="1309" frameHeight="1656"/>
+	<SubTexture name="Dust note right0001" x="2644" y="3300" width="1100" height="1506" frameX="-125" frameY="-102" frameWidth="1309" frameHeight="1656"/>
+	<SubTexture name="Dust note right0002" x="3744" y="3300" width="1206" height="1580" frameX="-65" frameY="-52" frameWidth="1309" frameHeight="1656"/>
+	<SubTexture name="Dust note right0003" x="3744" y="3300" width="1206" height="1580" frameX="-65" frameY="-52" frameWidth="1309" frameHeight="1656"/>
+	<SubTexture name="Dust note right0004" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0005" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0006" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0007" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0008" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0009" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0010" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0011" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0012" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0013" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0014" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note right0015" x="4950" y="3300" width="1309" height="1656"/>
+	<SubTexture name="Dust note up0000" x="6259" y="3300" width="1075" height="1481" frameX="-97" frameY="-54" frameWidth="1258" frameHeight="1597"/>
+	<SubTexture name="Dust note up0001" x="6259" y="3300" width="1075" height="1481" frameX="-97" frameY="-54" frameWidth="1258" frameHeight="1597"/>
+	<SubTexture name="Dust note up0002" x="0" y="5016" width="1165" height="1536" frameX="-47" frameY="-28" frameWidth="1258" frameHeight="1597"/>
+	<SubTexture name="Dust note up0003" x="0" y="5016" width="1165" height="1536" frameX="-47" frameY="-28" frameWidth="1258" frameHeight="1597"/>
+	<SubTexture name="Dust note up0004" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0005" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0006" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0007" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0008" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0009" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0010" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0011" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0012" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0013" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0014" x="1165" y="5016" width="1258" height="1597"/>
+	<SubTexture name="Dust note up0015" x="1165" y="5016" width="1258" height="1597"/>
+</TextureAtlas>

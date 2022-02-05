@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IZellen_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IZellen idle dance0000" x="0" y="0" width="516" height="979" frameX="-3" frameY="-30" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0001" x="0" y="0" width="516" height="979" frameX="-3" frameY="-30" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0002" x="516" y="0" width="511" height="978" frameX="-4" frameY="-31" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0003" x="516" y="0" width="511" height="978" frameX="-4" frameY="-31" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0004" x="1027" y="0" width="510" height="982" frameX="0" frameY="-27" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0005" x="1027" y="0" width="510" height="982" frameX="0" frameY="-27" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0006" x="1537" y="0" width="511" height="992" frameX="0" frameY="-17" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0007" x="1537" y="0" width="511" height="992" frameX="0" frameY="-17" frameWidth="526" frameHeight="1009"/>
+	<SubTexture name="IZellen idle dance0008" x="2048" y="0" width="526" height="1009"/>
+	<SubTexture name="IZellen idle dance0009" x="2048" y="0" width="526" height="1009"/>
+	<SubTexture name="IZellen idle dance0010" x="2048" y="0" width="526" height="1009"/>
+	<SubTexture name="IZellen idle dance0011" x="2048" y="0" width="526" height="1009"/>
+	<SubTexture name="IZellen idle dance0012" x="2048" y="0" width="526" height="1009"/>
+	<SubTexture name="IZellen idle dance0013" x="2048" y="0" width="526" height="1009"/>
+	<SubTexture name="IZellen note down0000" x="2574" y="0" width="445" height="995" frameX="-7" frameY="-6" frameWidth="453" frameHeight="1001"/>
+	<SubTexture name="IZellen note down0001" x="2574" y="0" width="445" height="995" frameX="-7" frameY="-6" frameWidth="453" frameHeight="1001"/>
+	<SubTexture name="IZellen note down0002" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0003" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0004" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0005" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0006" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0007" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0008" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0009" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0010" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0011" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0012" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0013" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note down0014" x="3019" y="0" width="453" height="1001"/>
+	<SubTexture name="IZellen note left0000" x="3472" y="0" width="467" height="973" frameX="-12" frameY="-7" frameWidth="479" frameHeight="980"/>
+	<SubTexture name="IZellen note left0001" x="3472" y="0" width="467" height="973" frameX="-12" frameY="-7" frameWidth="479" frameHeight="980"/>
+	<SubTexture name="IZellen note left0002" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0003" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0004" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0005" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0006" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0007" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0008" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0009" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0010" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0011" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0012" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0013" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note left0014" x="0" y="1009" width="479" height="980"/>
+	<SubTexture name="IZellen note right0000" x="479" y="1009" width="458" height="982"/>
+	<SubTexture name="IZellen note right0001" x="479" y="1009" width="458" height="982"/>
+	<SubTexture name="IZellen note right0002" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0003" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0004" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0005" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0006" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0007" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0008" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0009" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0010" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0011" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0012" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0013" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note right0014" x="937" y="1009" width="448" height="982" frameX="-5" frameY="0" frameWidth="458" frameHeight="982"/>
+	<SubTexture name="IZellen note up0000" x="1385" y="1009" width="428" height="996" frameX="0" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0001" x="1385" y="1009" width="428" height="996" frameX="0" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0002" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0003" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0004" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0005" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0006" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0007" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0008" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0009" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0010" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0011" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0012" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0013" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+	<SubTexture name="IZellen note up0014" x="1813" y="1009" width="441" height="997" frameX="-4" frameY="0" frameWidth="445" frameHeight="997"/>
+</TextureAtlas>

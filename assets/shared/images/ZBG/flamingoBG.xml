@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flamingoBG.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="flamingo0000" x="0" y="0" width="471" height="727"/>
+	<SubTexture name="flamingo0001" x="0" y="0" width="471" height="727"/>
+	<SubTexture name="flamingo0002" x="471" y="0" width="328" height="651" frameX="-68" frameY="-37" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0003" x="471" y="0" width="328" height="651" frameX="-68" frameY="-37" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0004" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0005" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0006" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0007" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0008" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0009" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0010" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0011" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0012" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+	<SubTexture name="flamingo0013" x="799" y="0" width="335" height="649" frameX="-61" frameY="-38" frameWidth="471" frameHeight="727"/>
+</TextureAtlas>

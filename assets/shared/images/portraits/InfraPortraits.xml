@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="InfraPortraits.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dust.png" x="0" y="0" width="543" height="444"/>
+	<SubTexture name="Infra.png" x="543" y="0" width="543" height="444"/>
+	<SubTexture name="Neon.png" x="1086" y="0" width="543" height="444"/>
+</TextureAtlas>

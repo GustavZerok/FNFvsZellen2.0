@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_angry.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Angry0000" x="0" y="0" width="292" height="471" frameX="-16" frameY="-14" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0001" x="0" y="0" width="292" height="471" frameX="-16" frameY="-14" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0002" x="292" y="0" width="291" height="469" frameX="-15" frameY="-16" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0003" x="292" y="0" width="291" height="469" frameX="-15" frameY="-16" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0004" x="583" y="0" width="291" height="472" frameX="-16" frameY="-13" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0005" x="874" y="0" width="291" height="472" frameX="-16" frameY="-13" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0006" x="1165" y="0" width="289" height="474" frameX="-18" frameY="-11" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0007" x="1454" y="0" width="312" height="485" frameX="-10" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0008" x="1454" y="0" width="312" height="485" frameX="-10" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0009" x="1454" y="0" width="312" height="485" frameX="-10" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0010" x="0" y="485" width="322" height="485" frameX="-1" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0011" x="0" y="485" width="322" height="485" frameX="-1" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0012" x="0" y="485" width="322" height="485" frameX="-1" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0013" x="322" y="485" width="324" height="485" frameX="0" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0014" x="322" y="485" width="324" height="485" frameX="0" frameY="0" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0015" x="646" y="485" width="321" height="473" frameX="-2" frameY="-12" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0016" x="646" y="485" width="321" height="473" frameX="-2" frameY="-12" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0017" x="967" y="485" width="320" height="473" frameX="-4" frameY="-12" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0018" x="967" y="485" width="320" height="473" frameX="-4" frameY="-12" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0019" x="1287" y="485" width="317" height="474" frameX="-6" frameY="-11" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0020" x="1604" y="485" width="317" height="474" frameX="-6" frameY="-11" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0021" x="0" y="970" width="313" height="475" frameX="-10" frameY="-10" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0022" x="313" y="970" width="288" height="480" frameX="-39" frameY="-5" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0023" x="313" y="970" width="288" height="480" frameX="-39" frameY="-5" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0024" x="313" y="970" width="288" height="480" frameX="-39" frameY="-5" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0025" x="601" y="970" width="287" height="479" frameX="-39" frameY="-6" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0026" x="601" y="970" width="287" height="479" frameX="-39" frameY="-6" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0027" x="601" y="970" width="287" height="479" frameX="-39" frameY="-6" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0028" x="888" y="970" width="288" height="479" frameX="-38" frameY="-6" frameWidth="327" frameHeight="485"/>
+	<SubTexture name="GF Angry0029" x="888" y="970" width="288" height="479" frameX="-38" frameY="-6" frameWidth="327" frameHeight="485"/>
+</TextureAtlas>
