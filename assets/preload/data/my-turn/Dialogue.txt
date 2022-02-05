@@ -1,0 +1,10 @@
+CB:irene:a
+SB:irene:a
+GF:irene:a
+INFRA:infra:b
+DUST:infra:b
+NEON:infra:b
+DERECHA:zellen:c
+IZQUIERDA:zellen:c
+NORMAL:bf:d
+MIEDO:bf:d

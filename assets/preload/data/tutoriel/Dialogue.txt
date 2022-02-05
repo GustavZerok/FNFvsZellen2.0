@@ -1,0 +1,11 @@
+SB:irene:A ver Zellen, hace un huevo que no juegas a este juego
+SB:irene:y hay unas pequeñas actualizaciones que te tienes que ver 
+DERECHA:zellen:Como cuales? 
+SB:irene:Hay una quinta nota, esta por defecto en espacio, puedes modificarlo si quieres en el menu 
+SB:irene:Y yo te voy a ayudar para que practiques un poco 
+DERECHA:zellen:Ayudarme? 
+DERECHA:zellen:Tu? 
+SB:irene:Hay unas notas que... 
+DERECHA:zellen:En serio me tienes que montar un tutorial aqui con lo puto amo que soy? 
+SB:irene:Ah, vale... pues entonces comencemos
+SB:irene:ademas llega una amiga mia con su novio

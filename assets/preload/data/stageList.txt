@@ -1,0 +1,6 @@
+stage
+libreria
+glich
+downgrade
+hell
+void

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FNF_main_menu_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="donate basic instancia 10000" x="0" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10001" x="0" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10002" x="0" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10003" x="323" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10004" x="323" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10005" x="323" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10006" x="0" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10007" x="0" y="0" width="323" height="159"/>
+	<SubTexture name="donate basic instancia 10008" x="0" y="0" width="323" height="159"/>
+	<SubTexture name="donate white instancia 10000" x="646" y="0" width="365" height="177"/>
+	<SubTexture name="donate white instancia 10001" x="1011" y="0" width="365" height="177"/>
+	<SubTexture name="donate white instancia 10002" x="1376" y="0" width="362" height="175" frameX="-2" frameY="-2" frameWidth="365" frameHeight="177"/>
+	<SubTexture name="freeplay basic instancia 10000" x="0" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10001" x="0" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10002" x="0" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10003" x="486" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10004" x="486" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10005" x="486" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10006" x="972" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10007" x="972" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay basic instancia 10008" x="972" y="177" width="486" height="123"/>
+	<SubTexture name="freeplay white instancia 10000" x="0" y="300" width="627" height="170" frameX="0" frameY="0" frameWidth="636" frameHeight="175"/>
+	<SubTexture name="freeplay white instancia 10001" x="627" y="300" width="633" height="171" frameX="-3" frameY="-1" frameWidth="636" frameHeight="175"/>
+	<SubTexture name="freeplay white instancia 10002" x="1260" y="300" width="629" height="174" frameX="-4" frameY="-1" frameWidth="636" frameHeight="175"/>
+	<SubTexture name="options basic instancia 10000" x="0" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10001" x="0" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10002" x="0" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10003" x="488" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10004" x="488" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10005" x="488" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10006" x="976" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10007" x="976" y="474" width="488" height="113"/>
+	<SubTexture name="options basic instancia 10008" x="976" y="474" width="488" height="113"/>
+	<SubTexture name="options white instancia 10000" x="0" y="587" width="608" height="156" frameX="-1" frameY="-2" frameWidth="610" frameHeight="165"/>
+	<SubTexture name="options white instancia 10001" x="608" y="587" width="607" height="159" frameX="-3" frameY="-2" frameWidth="610" frameHeight="165"/>
+	<SubTexture name="options white instancia 10002" x="1215" y="587" width="610" height="165"/>
+	<SubTexture name="story mode basic instancia 10000" x="0" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10001" x="0" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10002" x="0" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10003" x="616" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10004" x="616" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10005" x="616" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10006" x="1232" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10007" x="1232" y="752" width="616" height="123"/>
+	<SubTexture name="story mode basic instancia 10008" x="1232" y="752" width="616" height="123"/>
+	<SubTexture name="story mode white instancia 10000" x="0" y="875" width="797" height="174" frameX="0" frameY="-3" frameWidth="797" frameHeight="182"/>
+	<SubTexture name="story mode white instancia 10001" x="797" y="875" width="795" height="174" frameX="-2" frameY="-2" frameWidth="797" frameHeight="182"/>
+	<SubTexture name="story mode white instancia 10002" x="0" y="1049" width="795" height="182" frameX="0" frameY="0" frameWidth="797" frameHeight="182"/>
+</TextureAtlas>
